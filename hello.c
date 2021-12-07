@@ -4,7 +4,7 @@ int main(){
 	printf("Hellow1 World.");
 	printf("Hellow World.");
 	printf("Hellow Beautiful World.");
-
+	printf("%d",multypily(1,2));	
 	
 	return 0;
 }
